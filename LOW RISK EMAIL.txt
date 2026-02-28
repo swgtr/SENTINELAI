@@ -1,0 +1,60 @@
+1. Subject: Immediate Action Required
+
+We detected suspicious activity.
+
+Confirm identity here:
+http://paypal-verification-alert.xyz
+
+Share OTP to unlock your account.
+
+2.
+Subject: Project Progress Update
+
+Dear Team,
+The Phase-2 implementation has been completed successfully.
+Please review the attached document and share feedback by Friday.
+
+Best regards,
+Ankit
+
+3.
+Subject: Internship Schedule Confirmation
+
+Hello,
+This is to confirm your internship begins on March 5th at 10 AM.
+Kindly report to the HR department upon arrival.
+
+Thank you.
+
+4.
+Subject: Examination Form Submission
+
+Dear Student,
+Your examination form has been successfully submitted.
+You may download the receipt from the student portal.
+
+Regards,
+Examination Cell
+
+5.
+
+Subject: Your Order Has Been Shipped
+
+Hi Ankit,
+Your recent purchase has been shipped and will arrive in 3–5 business days.
+Track your order directly from your account dashboard.
+
+Thank you for shopping with us.
+
+
+6.
+
+Subject: Weekly Sync Reminder
+
+Hi Team,
+Reminder for tomorrow’s weekly sync meeting at 11 AM.
+Agenda includes project milestones and testing updates.
+
+Regards,
+Project Manager
+

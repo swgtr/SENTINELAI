@@ -1,0 +1,5 @@
+1.https://www.google.com
+2.https://www.microsoft.com/security
+3.https://www.amazon.in/orders
+4.https://github.com/login
+5.https://www.stanford.edu/admissions

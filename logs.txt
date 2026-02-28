@@ -1,0 +1,65 @@
+2026-02-16 21:03:32.844278,A payment request of ₹12,500 is pending,15.978252498044002,Low
+2026-02-16 21:04:15.090214,Dear Customer,
+
+Your electricity bill of ₹1,240 is due on 25 Feb.
+
+Please pay via official electricity board website or mobile app.,21.939953020615025,Low
+2026-02-16 21:04:47.497064,ubject: You Won ₹50,00,000 International Prize
+
+Congratulations!
+
+To release funds, pay processing fee ₹10,000 and share Aadhaar + bank details.,63.8421041322246,High
+2026-02-16 21:17:39.075675,Dear Souvik,
+
+Your February bank statement is now available in your official banking app.
+
+Please log in through the official app to view your statement.
+
+Thank you,
+ABC Bank
+,9.69,Low
+2026-02-16 21:18:09.508756,Hello,
+
+Your order #45892 has been confirmed.
+Delivery expected by 20 Feb 2026.
+
+Track your order via the official website.
+
+Thank you.
+,11.09,Low
+2026-02-16 21:18:32.543478,Dear Customer,
+
+Your bank account has been suspended due to suspicious activity.
+
+Verify immediately to restore access:
+http://secure-bank-login-update.xyz/verify
+
+Failure to act within 1 hour will permanently block your account.
+,26.98,Low
+2026-02-16 21:19:09.649585,We detected unusual login.
+
+Reply with your 6-digit OTP immediately to prevent account suspension.
+,27.08,Low
+2026-02-16 21:19:24.304070,Hi,
+
+I am in a confidential board meeting.
+Transfer ₹4,50,000 to this account immediately and do not inform anyone.
+
+I will explain later.
+
+CEO
+,13.08,Low
+2026-02-16 21:19:49.969874,Congratulations!
+
+You have won ₹75,00,000 in International Lucky Draw.
+
+To release funds send Aadhaar, bank details and ₹9,500 processing fee within 24 hours.
+,32.86,Medium
+2026-02-16 21:20:34.869671,I sent you a voice note. It is AI generated but urgent.
+
+Transfer the payment immediately as discussed in the recording.
+,18.76,Low
+2026-02-16 21:23:56.777744,I sent you a voice note. It is AI generated but urgent.
+
+Transfer the payment immediately as discussed in the recording.
+,18.76,Low
